@@ -28,5 +28,8 @@ npm-debug.log
 build
 vendor/*-manifest.json
 
+#Optional local history
+.history
+
 # Docs
 gh-pages
